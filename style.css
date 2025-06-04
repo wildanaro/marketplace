@@ -1,0 +1,38 @@
+.navbar-nav {
+    margin-left: auto;
+    display: flex;
+    align-items: center;
+}
+
+.bg-hero {
+    background-image: url(/assets/img-banner1.png);
+    background-size: cover;
+    background-position: center;
+    height: 500px;
+    border-radius: 50px;
+    
+}
+
+#produk .card {
+    border-radius: 50px;
+    margin-top: 20px;
+}
+
+
+#about .bg-about {
+    background-color: #D2FFEA;
+    height: 100%;
+    border-radius: 50px;
+    display: flex;
+    align-items: center;
+    padding: 30px;
+}
+
+#cta .bg-cta {
+    background-image: url(./assets/img-cta.png);
+    background-size: cover;
+    background-position: center;
+    height: 500px;
+    border-radius: 50px;
+    text-align: center;
+}
